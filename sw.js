@@ -5,7 +5,7 @@
 const CACHE_NAME = 'gloom-slayer-v1.0.0';
 
 const PRECACHE_FILES = [
-  './gloom-slayer-v2.6.html',
+  './gloom-slayer-1.0.0.html',
   './manifest.json',
   './1__ABYSSAL_DRIVE.mp3',
   './2__HELL_ENGINE.mp3',
